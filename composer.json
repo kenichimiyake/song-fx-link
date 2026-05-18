@@ -1,0 +1,23 @@
+{
+    "name": "kenichimiyake/song-fx-link",
+    "description": "A curated reference package introducing SONG FX — a professional FX trading information platform. Visit the official site for the latest market insights and services.",
+    "type": "library",
+    "keywords": ["fx", "trading", "finance", "song-fx", "investment"],
+    "homepage": "https://song.co.jp/fx/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kenichi Miyake",
+            "homepage": "https://song.co.jp/fx/",
+            "role": "Maintainer"
+        }
+    ],
+    "support": {
+        "source": "https://song.co.jp/fx/",
+        "docs": "https://song.co.jp/fx/",
+        "issues": "https://song.co.jp/fx/"
+    },
+    "require": {
+        "php": ">=7.0"
+    }
+}
